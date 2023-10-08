@@ -4,6 +4,8 @@ Our team of four was tasked with designing a device to improve the quality of li
 
 After thorough research and brainstorming, we decided to focus on creating a smart cane for Tim that would use sensors and artificial intelligence to detect obstacles and provide audio feedback.
 
+As for my specific role, I was the Software Development Team Lead of the project, implementing C++ on an Arduino simulator using TinkerCAD.
+
 Attached below is the final device demonstration video (SOUND ON), alongside an image:
 
 
