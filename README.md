@@ -6,6 +6,9 @@ After thorough research and brainstorming, we decided to focus on creating a sma
 
 Attached below is the final device demonstration video (SOUND ON), alongside an image:
 
-https://github.com/armanazb/Ultrasonic-White-Cane/assets/144175692/eda4bb6a-4d20-4cad-91b0-05bd91aadf20
+
+https://github.com/armanazb/Ultrasonic-White-Cane/assets/144175692/91640de4-63f9-48a4-a0b0-14f637c98ac3
+
+
 
 ![Untitled](https://github.com/armanazb/Ultrasonic-White-Cane/assets/144175692/9cb5c641-3fb8-4011-8444-400c21421f65)
